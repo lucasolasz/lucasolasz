@@ -25,7 +25,7 @@
 
 ### About me
 
-I'm a full stack web developer and currently working at Global Hitss as a Technical Developer.
+I'm a full stack web developer and currently working at TTY2000 as a JAVA Senior Analyst Developer.
 
 
 
