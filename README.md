@@ -23,9 +23,13 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+### My stats
+
+![lucasolasz's Stats](https://github-readme-stats.vercel.app/api?username=lucasolasz&theme=chartreuse-dark&show_icons=true&hide_border=false&count_private=true)
+![lucasolasz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasolasz&theme=chartreuse-dark&hide_border=false)
+![lucasolasz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasolasz&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
+
+
 ### About me
 
 I'm a full stack web developer and currently working at TTY2000 as a JAVA Senior Analyst Developer.
-
-
-
